@@ -4,9 +4,9 @@ Business website for **Sona Sales Pharmaceuticals**, Bihar's trusted I.V. Fluids
 
 ## Live Site
 
-Deployed via **Azure Static Web Apps**, auto-deployed on every push to `master`.
+**https://devesh1102.github.io/sonasalesPharmaceuticals/**
 
-> The live URL is assigned by Azure after deployment. You can find it in the [Azure Portal](https://portal.azure.com) under your Static Web App resource, or in the **Environments** tab of the GitHub Actions run.
+Deployed via **GitHub Pages** from the `master` branch. Updates go live automatically on every push.
 
 The GitHub repository is at:
 **https://github.com/devesh1102/sonasalesPharmaceuticals**
